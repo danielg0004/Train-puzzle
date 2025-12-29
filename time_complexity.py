@@ -35,8 +35,8 @@ plt.plot(lengths, steps, color="red", marker="o", linestyle="-", label="Trend")
 
 plt.xlabel("Length of the list")
 plt.ylabel("Steps of the algorithm")
-plt.title('Relationship Between List X and List Y')
 plt.grid(True)
 plt.legend()
+
 
 plt.show()
